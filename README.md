@@ -1,1 +1,1 @@
-# berzerk.dev
+berzerk.dev
